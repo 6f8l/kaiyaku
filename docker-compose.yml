@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  web:
+  kaiyaku:
     build:
       context: .
       dockerfile: ./Dockerfile
